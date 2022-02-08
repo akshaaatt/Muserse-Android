@@ -1,0 +1,44 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Material3.Dark">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorStore</item>
+        <item name="colorPrimaryDark">@color/colorStore</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">#101010</item>
+
+    </style>
+
+    <style name="SplashTheme" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">#101010</item>
+        <item name="android:navigationBarColor">#101010</item>
+    </style>
+
+    <style name="PlayLayout" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#F01E1D1D</item>
+        <item name="colorPrimaryDark">#CD00331E</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">#101010</item>
+    </style>
+
+    <style name="AlbumLayout" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimaryDark">@color/colorStore</item>
+        <item name="android:navigationBarColor">#101010</item>
+    </style>
+
+    <style name="FolderLayout" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimaryDark">@color/colorStore</item>
+        <item name="android:navigationBarColor">#101010</item>
+    </style>
+
+    <style name="SearchLayout" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">#101010</item>
+    </style>
+
+    <style name="AboutLayout" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimaryDark">@color/colorStore</item>
+        <item name="android:navigationBarColor">#101010</item>
+    </style>
+</resources>
